@@ -56,7 +56,7 @@ This model shows very low precision on **High Risk** accuracy score with a 67% *
 This model shows very low precision on **High Risk** accuracy score with a 91% **Sensitivity** and 100% **Low Risk** precision. When compared to all other models this model has the higest **Sensivity** accuracy on high risk. The fact that the **Low Risk** accuracy precision scote is only 7% I woudl not recomment this model as a good model for this analysis.
 
 ![EasyEnsembleAdaBoostModel](images/EasyEnsembleAdaBoost1.png)
-![EasyEnsembleAdaBoost-Output](images/EasyEnsembleA2aBoost2.png)
+![EasyEnsembleAdaBoost-Output](images/EasyEnsembleAdaBoost2.png)
 
 ## Summary
 
