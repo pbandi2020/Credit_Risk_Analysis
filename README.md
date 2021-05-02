@@ -26,6 +26,11 @@ This model shows very low precision on **High Risk** accuracy score with a 75% *
 
 ### *SMOTE Model*
 
+This model shows very low precision on **High Risk** accuracy score with a 62% **Sensitivity** and 100% **Low Risk** precision, hence this model is not a recommended and would need to evaluate other models to reach default accuracy rate.
+
+![SMOTEModel](images/SMOTE1.png)
+![SMOTE-Output](images/SMOTE2.png)
+
 ### *ClusterCentroid Model*
 
 ### *SMOTEENN Model*
