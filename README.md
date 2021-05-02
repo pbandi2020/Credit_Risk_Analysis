@@ -33,9 +33,23 @@ This model shows very low precision on **High Risk** accuracy score with a 62% *
 
 ### *ClusterCentroid Model*
 
+This model shows very low precision on **High Risk** accuracy score with a 69% **Sensitivity** and 100% **Low Risk** precision, hence this model is not a recommended and would need to evaluate other models to reach default accuracy rate.
+
+![ClusterCentroidModel](images/ClusterCentroids1.png)
+![ClusterCentroid-Output](images/ClusterCentroids2.png)
+
 ### *SMOTEENN Model*
+This model shows very low precision on **High Risk** accuracy score with a 70% **Sensitivity** and 100% **Low Risk** precision, hence this model is not a recommended and would need to evaluate other models to reach default accuracy rate.
+
+![SMOTEENNModel](images/SMOTEENN1.png)
+![SMOTEENN-Output](images/SMOTEENN2.png)
 
 ### *BalncedRandomForestClassfier Model*
+
+This model shows very low precision on **High Risk** accuracy score with a 67% **Sensitivity** and 100% **Low Risk** precision, hence this model is not a recommended and would need to evaluate other models to reach default accuracy rate. This model does have a slightly higer **High Risk** recision when compared to previous model still not recommended as the prediction rate is very low compared to **Low Risk** precision score.
+
+![BalnacedRandomForestModel](images/BalnacedRandomForest1.png)
+![BalnacedRandomForest1-Output](images/BalnacedRandomForest2.png)
 
 ### *EasyEnsembleClassifier Model*
 
