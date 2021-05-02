@@ -16,17 +16,17 @@ We will also review the performance of each model and make a recommendation on w
 
 ## Results
 
-### RandomOverSampler Model
+### *RandomOverSampler Model
 
-### SMOTE Model
+### *SMOTE Model
 
-### ClusterCentroid Model
+### *ClusterCentroid Model
 
-### SMOTEENN Model
+### *SMOTEENN Model
 
-### BalncedRandomForestClassfier Model
+### *BalncedRandomForestClassfier Model
 
-### EasyEnsembleClassifier Model
+### *EasyEnsembleClassifier Model
 
 
 
